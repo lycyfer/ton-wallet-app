@@ -1,0 +1,7 @@
+{
+    "url": "<app-url>",                        
+    "name": "ton-wallet-app",                   
+    "iconUrl": "https://github.com/lycyfer/ton-wallet-app/blob/main/gost.png",               
+    "termsOfUseUrl": "https://github.com/lycyfer/ton-wallet-app/blob/main/terms-of-use.txt",     
+    "privacyPolicyUrl": "https://github.com/lycyfer/ton-wallet-app/blob/main/privacy-plicy.txt" 
+}
